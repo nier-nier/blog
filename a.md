@@ -1,7 +1,7 @@
 # 从URL输入到页面展现发生了什么
 ## 在浏览器中输入URL 
 
-#####什么是URL
+##### 什么是URL
 
 URL（Uniform Resource Locator）是统一资源定位符，是对可以从互联网上得到的资源的位置和访问方法的一种简洁的表示。互联网上的每个文件都有一个唯一的URL，它包含的信息指出文件的位置以及浏览器应该怎么处理它。基本URL包含称协议、服务器名称（或IP地址）、路径和文件名。协议是从该计算机获取资源的方式，常见的是http、https、sftp、file，不同协议有不同的通讯内容格式。
 
@@ -17,7 +17,7 @@ URL（Uniform Resource Locator）是统一资源定位符，是对可以从互�
 
 渲染指的是根据资源的类型，将资源在显示器上以图像等方式显示的过程。网页渲染是浏览器最复杂、最核心的功能。
  
-#####网站处理流程：
+##### 网站处理流程：
 MVC 模型(model)-视图(view)-控制器(controller)
 ![image.png](http://upload-images.jianshu.io/upload_images/5974487-e9e5d3bffa8d1049.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
